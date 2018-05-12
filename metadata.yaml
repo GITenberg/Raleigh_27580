@@ -1,0 +1,47 @@
+_repo: Raleigh_27580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: 'Based on letters and some information previously unavailable, the author
+  gives "a full portrait" Sir Walter Raleigh (1554-1618): poet, soldier, courtier,
+  spy, explorer, and popularizer of tobacco use. It is also one of the first biographies
+  to emphasize Raleigh''s private life--and not the historical events surrounding
+  his career--from youth through fame, travel, disgrace, and gruesome execution.'
+gutenberg_issued: '2008-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27580'
+  lccn: '48030171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Raleigh, Walter, Sir, 1552?-1618'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+- !lcsh 'Explorers -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- History -- James I, 1603-1625'
+- !lcsh 'Great Britain -- History, Naval -- Tudors, 1485-1603'
+title: Raleigh
+url: http://www.gutenberg.org/ebooks/27580
